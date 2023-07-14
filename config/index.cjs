@@ -8,10 +8,10 @@
 const USER_CONFIG = {
 
   // 使用微信测试号：公众号APP_ID
-  APP_ID: 'wx5af423bf28c00a99',
+  APP_ID: 'wx194d7277d1fb47f1',
 
   // 使用微信测试号：公众号APP_SECRET
-  APP_SECRET: 'f48b4a9937032215c524603b5e554144',
+  APP_SECRET: 'ff50c1537011e8d83aa47464b616f8a0',
 
   PROVINCE: '河北',
   CITY: '沧州',
@@ -21,7 +21,7 @@ const USER_CONFIG = {
       // 想要发送的人的名字
       name: '宝宝',
       // 使用微信测试号：扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-      id: 'ohIjJ6AmXVwJmU_aY3lU04Nasxzk',
+      id: 'ohIjJ6K-1z5EZi_PgFU9IM7uLPCo',
       // 使用微信测试号：你想对他发送的模板消息的模板ID
       useTemplateId: 'qc9MEnY1Eg-btUp-uXhQgLS9_bG8SOeuvQUZcCSJkO4',
       // 新历生日, 仅用作获取星座运势, 格式必须为MM-DD
@@ -36,13 +36,13 @@ const USER_CONFIG = {
           type: '生日', name: '宝宝', year: '1996', date: '08-19',
         },
         {
-          type: '节日', name: '相识纪念日', year: '2020', date: '09-03',
+          type: '节日', name: '相识纪念日', year: '2022', date: '11-11',
         },
       ],
       // 我们在一起已经有xxxx天了的配置
       customizedDateList: [
         // 在一起的日子
-        { keyword: 'love_day', date: '2022-09-08' },
+        { keyword: 'love_day', date: '2022-11-11' },
         // 结婚纪念日
         { keyword: 'marry_day', date: '2022-09-09' },
       ],
